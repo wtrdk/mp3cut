@@ -27,5 +27,5 @@ def duration(inp):
 
 if __name__ == '__main__':
   fname=' "'+argv[1]+'"'
-  cutter(fname,10)
-  fader (fname, 5)
+  cutter(fname,20)
+  #fader (fname, 5)
